@@ -48,6 +48,7 @@
 
 - [Spring Boot 中文索引](https://github.com/ityouknow/awesome-spring-boot)   
 - [程序员导航网站](http://tooool.org/)  
+- [IT行业中文资源大全](https://github.com/ityouknow/awesome-list)  
 
 
 
