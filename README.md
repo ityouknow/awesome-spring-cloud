@@ -20,6 +20,7 @@
 - [方志朋 Spring Cloud 专栏](http://blog.csdn.net/column/details/15197.html)  
 - [许进 跟我学Spring Cloud](http://xujin.org/categories/%E8%B7%9F%E6%88%91%E5%AD%A6Spring-Cloud/)  
 - [liaokailin的专栏 Spring Cloud](http://blog.csdn.net/liaokailin/article/category/6212338)  
+- [猿天地尹吉欢 Spring Cloud](http://cxytiandi.com/blog/detail/17470)  
 
 
 ## 网站
