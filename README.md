@@ -44,6 +44,7 @@
 - [AG-Admin 基于Spring Cloud微服务化开发平台](https://gitee.com/geek_qi/ace-security)  
 - [spring-boot-cloud综合练手项目](https://github.com/zhangxd1989/spring-boot-cloud)  
 - [基于Spring Cloud的在线考试系统](https://gitee.com/NeedLoser/spring-cloud-online-exam)  
+- [基于SpringCloud的微服务架构实战案例项目，以一个简单的购物流程为示例](https://github.com/backkoms/simplemall)  
 
 
 ## 其它
