@@ -14,10 +14,10 @@
 
 ## 博客
 
-- [纯洁的微笑 Spring Cloud系列文章](http://www.ityouknow.com/spring-cloud)  
+- [纯洁的微笑 Spring Cloud 系列文章](http://www.ityouknow.com/spring-cloud)  
 - [周立 Spring Cloud](http://www.itmuch.com/categories/Spring-Cloud/)  
 - [方志朋 Spring Cloud 专栏](http://blog.csdn.net/column/details/15197.html)  
-- [许进 跟我学Spring Cloud](http://xujin.org/categories/%E8%B7%9F%E6%88%91%E5%AD%A6Spring-Cloud/)  
+- [许进 跟我学 Spring Cloud](http://xujin.org/categories/%E8%B7%9F%E6%88%91%E5%AD%A6Spring-Cloud/)  
 - [程序猿DD Spring Cloud合集](http://blog.didispace.com/categories/Spring-Cloud/)   
 - [liaokailin的专栏 Spring Cloud](http://blog.csdn.net/liaokailin/article/category/6212338)  
 - [猿天地尹吉欢 Spring Cloud](http://cxytiandi.com/blog/detail/17470)  
@@ -25,7 +25,7 @@
 
 ## 开源
 
-- [纯洁的微笑 的Spring Cloud示例](https://github.com/ityouknow/spring-cloud-examples)  
+- [纯洁的微笑的 Spring Cloud 示例](https://github.com/ityouknow/spring-cloud-examples)  
 - [PiggyMetrics-一个供个人处理财务的解决方案(强烈推荐)](https://github.com/sqshq/PiggyMetrics)  
 - [基于Spring Cloud Netflix的TCC柔性事务和EDA事件驱动示例](https://github.com/prontera/spring-cloud-rest-tcc)  
 - [方志朋 SpringCloudLearning](https://github.com/forezp/SpringCloudLearning)  
