@@ -26,6 +26,8 @@
 ## 开源
 
 - [纯洁的微笑 的Spring Cloud示例](https://github.com/ityouknow/spring-cloud-examples)  
+- [PiggyMetrics-一个供个人处理财务的解决方案(强烈推荐)](https://github.com/sqshq/PiggyMetrics)  
+- [基于Spring Cloud Netflix的TCC柔性事务和EDA事件驱动示例](https://github.com/prontera/spring-cloud-rest-tcc)  
 - [方志朋 SpringCloudLearning](https://github.com/forezp/SpringCloudLearning)  
 - [一套基于springcloud + mybatis + vue全家桶](https://github.com/OptionalDay/spring-cloud-vue)  
 - [cloudE 基于spring cloud的分布式系统架构](https://github.com/vangao1989/cloudE)  
