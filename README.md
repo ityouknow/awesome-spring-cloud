@@ -14,7 +14,7 @@
 
 ## 博客
 
-- [纯洁的微笑 Spring Cloud 系列文章](http://www.mooooc.com/spring-cloud)  
+- [纯洁的微笑 Spring Cloud 系列文章](http://www.ityouknow.com/spring-cloud)  
 - [周立 Spring Cloud](http://www.itmuch.com/categories/Spring-Cloud/)  
 - [方志朋 Spring Cloud 专栏](http://blog.csdn.net/column/details/15197.html)  
 - [许进 跟我学 Spring Cloud](http://xujin.org/categories/%E8%B7%9F%E6%88%91%E5%AD%A6Spring-Cloud/)  
