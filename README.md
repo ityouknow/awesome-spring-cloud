@@ -21,6 +21,7 @@
 - [程序猿DD Spring Cloud合集](http://blog.didispace.com/categories/Spring-Cloud/)   
 - [liaokailin的专栏 Spring Cloud](http://blog.csdn.net/liaokailin/article/category/6212338)  
 - [猿天地尹吉欢 Spring Cloud](http://cxytiandi.com/blog/detail/17470)  
+- [唐亚峰 Battcn-一起来学SpringCloud](http://blog.battcn.com/categories/SpringCloud/)  
 
 
 ## 开源
@@ -51,6 +52,7 @@
 - [Spring4all-Spring Cloud专栏](http://www.spring4all.com/category/3)  
 - [网易云课堂Spring Cloud视频](http://study.163.com/courses-search?keyword=Spring%20Cloud)  
 - [Spring Cloud 参考指南- 英文版](https://projects.spring.io/spring-cloud/spring-cloud.html)  
+- [Nepxion](https://github.com/Nepxion/Aquarius)  
 
 
 
