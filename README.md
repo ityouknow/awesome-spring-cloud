@@ -24,6 +24,7 @@
 - [猿天地尹吉欢 Spring Cloud](http://cxytiandi.com/blog/detail/17470)  
 - [唐亚峰 Battcn-一起来学SpringCloud](http://blog.battcn.com/categories/SpringCloud/)  
 - [yjclsx一spring cloud之路](https://blog.csdn.net/column/details/24531.html)  
+- [aoho一spring cloud](http://blueskykong.com/tags/Spring-Cloud)  
 
 ## 开源
 
