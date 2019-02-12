@@ -19,12 +19,13 @@
 - [周立 Spring Cloud](http://www.itmuch.com/categories/Spring-Cloud/)  
 - [方志朋 Spring Cloud 专栏](http://blog.csdn.net/column/details/15197.html)  
 - [许进 跟我学 Spring Cloud](http://xujin.org/categories/%E8%B7%9F%E6%88%91%E5%AD%A6Spring-Cloud/)  
-- [程序猿DD Spring Cloud合集](http://blog.didispace.com/categories/Spring-Cloud/)   
 - [liaokailin的专栏 Spring Cloud](http://blog.csdn.net/liaokailin/article/category/6212338)  
 - [猿天地尹吉欢 Spring Cloud](http://cxytiandi.com/blog/detail/17470)  
 - [唐亚峰 Battcn-一起来学SpringCloud](http://blog.battcn.com/categories/SpringCloud/)  
 - [yjclsx一spring cloud之路](https://blog.csdn.net/column/details/24531.html)  
 - [aoho一spring cloud](http://blueskykong.com/tags/Spring-Cloud)  
+- [程序猿DD Spring Cloud](http://blog.didispace.com/categories/Spring-Cloud/)   
+
 
 ## 开源
 
